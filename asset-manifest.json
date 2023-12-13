@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/proyecto/static/css/main.d4318ad5.css",
+    "main.js": "/proyecto/static/js/main.bb3217cd.js",
+    "static/js/787.77189dcb.chunk.js": "/proyecto/static/js/787.77189dcb.chunk.js",
+    "static/media/backgrondFinal.jpg": "/proyecto/static/media/backgrondFinal.b9874bb939c8eafaf89c.jpg",
+    "static/media/Alan-Turing.jpg": "/proyecto/static/media/Alan-Turing.941e0a53c36b1176fce4.jpg",
+    "static/media/steve-jobs.jpg": "/proyecto/static/media/steve-jobs.0b9f077457e5d07c6290.jpg",
+    "static/media/LarryPageySergeyBrin.webp": "/proyecto/static/media/LarryPageySergeyBrin.b5c49e1aa85099e82b81.webp",
+    "static/media/Mark-Zuckerberg.webp": "/proyecto/static/media/Mark-Zuckerberg.a685db0803a1cc86f3d8.webp",
+    "static/media/font-image.jpeg": "/proyecto/static/media/font-image.fdaecd59996a9e4b6f0f.jpeg",
+    "static/media/bill-gates.jpg": "/proyecto/static/media/bill-gates.82173a077bfe966f8c4d.jpg",
+    "static/media/Ada-Lovelace.webp": "/proyecto/static/media/Ada-Lovelace.8b1f249f882e4adb7c04.webp",
+    "static/media/github-logo.jpg": "/proyecto/static/media/github-logo.39c0ecd0fea7bce0b228.jpg",
+    "static/media/Grace-Hopper.webp": "/proyecto/static/media/Grace-Hopper.82de22f56edf63af4184.webp",
+    "static/media/linus-torvalds.webp": "/proyecto/static/media/linus-torvalds.69ea7ef27e588b433362.webp",
+    "static/media/Tim-Berners.webp": "/proyecto/static/media/Tim-Berners.1dd43cc13953faec9641.webp",
+    "static/media/manix-logo.jpg": "/proyecto/static/media/manix-logo.f735cc8437a21754619d.jpg",
+    "static/media/dennis-ritchie.jpg": "/proyecto/static/media/dennis-ritchie.a2c5c383e329abf332d1.jpg",
+    "static/media/github-icon.png": "/proyecto/static/media/github-icon.05f6c17b8cd04c28456f.png",
+    "index.html": "/proyecto/index.html",
+    "main.d4318ad5.css.map": "/proyecto/static/css/main.d4318ad5.css.map",
+    "main.bb3217cd.js.map": "/proyecto/static/js/main.bb3217cd.js.map",
+    "787.77189dcb.chunk.js.map": "/proyecto/static/js/787.77189dcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4318ad5.css",
+    "static/js/main.bb3217cd.js"
+  ]
+}
